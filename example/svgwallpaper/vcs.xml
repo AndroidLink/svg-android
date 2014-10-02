@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android-Library-ViewPagerIndicator" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/NumberProgressBarLibrary" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/PullToRefreshLibrary" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/UMengSDK" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/YokiBase" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/actionbarsherlock" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/code/trunk/ExerciseBook_Account" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/code/trunk/ExerciseBook_Contacts" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/code/trunk/ExerciseBook_Library" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/code/trunk/ExerciseBook_Work" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/slidingmenu_library" vcs="svn" />
+  </component>
+</project>
+

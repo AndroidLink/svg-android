@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/svgandroid/svgandroid.iml" filepath="$PROJECT_DIR$/svgandroid/svgandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svgwallpaper/svgwallpaper.iml" filepath="$PROJECT_DIR$/svgwallpaper/svgwallpaper.iml" />
+    </modules>
+  </component>
+</project>
+
